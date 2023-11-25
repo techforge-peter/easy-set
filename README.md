@@ -33,7 +33,7 @@ values without having to check for the existence of intermediate fields.
 To use this library in your project, install it via npm:
 
 ```bash
-npm install easy-set
+npm install @techforge/easy-set
 ```
 
 ## Features
